@@ -1,4 +1,5 @@
-# ngrok_
+script para instalar ngrok en termux.
+#comandos a instalar:
 # pkg update
 # pkg upgrade
 # pkg install pv
@@ -7,3 +8,6 @@
 # cd ngrok_
 # chmod 777 ngrok.sh
 # bash ngrok.sh
+
+#termux
+Att:dexter1999
