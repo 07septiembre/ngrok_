@@ -12,3 +12,6 @@ script para instalar ngrok en termux.
 # bash ngrok.sh
 
 Att:dexter1999
+
+Video de youtube.
+https://youtu.be/D2neyJu9EWY
