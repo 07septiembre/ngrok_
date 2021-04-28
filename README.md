@@ -11,7 +11,7 @@ script para instalar ngrok en termux.
 # chmod 777 ngrok.sh
 # bash ngrok.sh
 script corregido para los usuarios que no les conecta ngrok
-Att:dexter1999
+#Att:dexter1999
 
 Video de youtube.
 https://youtu.be/D2neyJu9EWY
